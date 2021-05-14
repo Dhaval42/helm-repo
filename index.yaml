@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  my-chart:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-05-14T10:16:53.488085057+05:30"
+    digest: a893d9b11a7635bc78d8f772f49c77c666ad736a3be98e57656f97c0e916e7c1
+    name: my-chart
+    urls:
+    - https://github.com/Dhaval42/helm-repo/my-chart-0.4.0.tgz
+    version: 0.4.0
+generated: "2021-05-14T10:16:53.48713716+05:30"
